@@ -98,5 +98,3 @@ http://localhost:8501
 MIT License
 
 ---
-
-If you want, I can also make a **much better GitHub README (with badges, screenshots, demo GIF, and architecture diagram)** which looks **very impressive for portfolio projects**.
